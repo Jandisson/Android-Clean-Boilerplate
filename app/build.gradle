@@ -6,7 +6,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.kodelabs.boilerplate"
+        applicationId "com.table6.educar"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
